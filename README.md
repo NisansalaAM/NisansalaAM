@@ -12,9 +12,8 @@
 - 🌱 I’m currently working as a <strong>Software Service Support Assistant</strong> in Spa Ceylon
 
 
-- 🌱 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
+- 💬 I’m currently learning <strong>Software Quality Assurance </strong> and <strong>Full-Stack Developments. </strong>
 
-- 💬 Ask me about <strong>Python / C++ / Java.</strong></p>
 
 - 📫 How to reach me **<strong>nisansala.spaCeylon@gmail.com</strong></p>**
 </br>
