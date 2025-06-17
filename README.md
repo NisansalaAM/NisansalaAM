@@ -6,7 +6,7 @@
 </p></h1>
 <p align="center">
   <h3 align="center">About me</h3>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAmarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=NisansalaAM&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduNisansala" /></p>
 </p>
 
 - 🌱 I’m currently working as a <strong>Software Service Support Assistant</strong> in Spa Ceylon
@@ -155,14 +155,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=NisansalaAmarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=NisansalaAM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SumuduNisansala" src="https://github-readme-streak-stats.herokuapp.com?user=NisansalaAmarasinghe&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NisansalaAM" src="https://github-readme-streak-stats.herokuapp.com?user=NisansalaAM&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NisansalaAmarasinghe&layout=compact&langs_count=8&theme=algolia"/>
+  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NisansalaAM&layout=compact&langs_count=8&theme=algolia"/>
   
   </td>
 </tr>
