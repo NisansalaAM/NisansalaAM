@@ -1,4 +1,5 @@
-<p><img align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="SumuduNisansala" /></p>
+<p><img align="center" src="https://informationage-production.s3.amazonaws.com/uploads/2022/10/understanding-rise-data-as-a-service.jpeg" alt="SumuduNisansala" /></p>
+<!-- https://github.com/halfrost/halfrost/blob/master/icons/header_.png -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋 I'm Nisansala Amarasinghe 
 <p align="center">
